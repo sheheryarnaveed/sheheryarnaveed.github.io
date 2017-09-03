@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Waqas Ali"
 title_separator          : "-"
 name                     : "Waqas Ali"
-description              : "I am a HKU '20 who loves all things tech and cheeko milkshake."
+description              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
 url                      : "https://waqasaliabbasi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -18,9 +18,9 @@ teaser                   : /assets/images/relatedpostfallback.jpg # path of fall
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "waqasaliabbasi" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Waqas Ali"
   avatar           : "/assets/images/Waqas.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a HKU '20 who loves all things tech and cheeko milkshake."
+  bio              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
   location         : "Kennedy Town, Hong Kong"
   email            : "waqas.abbasi@outlook.com"
   uri              :
