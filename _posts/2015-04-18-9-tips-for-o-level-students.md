@@ -21,7 +21,7 @@ As I was reflecting on my years in [CIE O Level](https://www.cie.org.uk/programm
 
 So let's get this started:
 
-###1. Live Fully
+### 1. Live Fully
 
 ![Open Field](https://1.bp.blogspot.com/-yrjIsaY0hAY/VTDI01lDDFI/AAAAAAAAmak/TLe10LmQjkg/s1600/1.jpg)
 
@@ -30,7 +30,7 @@ The subjects you study, the interests you develop, and the activities you partic
 
 Try everything and discover yourself. You should have an idea of who you are and what you like by the time you reach your [A Level](https://www.cie.org.uk/programmes.../cambridge-international-as-and-a-levels/).
 
-###2. Subjects
+### 2. Subjects
 
 
 ![Books](https://4.bp.blogspot.com/-FeZJfvQ-36o/VTDLlK3BpdI/AAAAAAAAmbg/es1uhUGzdnQ/s1600/2.JPG)
@@ -45,7 +45,7 @@ So, study as many subjects as you can. Universities love students who take up ch
 Also, studying more subjects trains your mind and vastly improves your skills. The brain is a muscle and the more you use it, the better it gets. If your ambitions are high, better buy a bigger shelf and fill it with books of every kind. Trust me, the returns will be beyond your imagination.
 
 
-###3. READING, READING, READING
+### 3. READING, READING, READING
 
 ![Boy reading in book shop](https://3.bp.blogspot.com/-kjKSLj2KbPU/VTDJUvRMI8I/AAAAAAAAmbM/ayQkTVfUkK8/s1600/Child_reading_at_Brookline_Booksmith.jpg)
 
@@ -74,7 +74,7 @@ And by good english I don't mean that you need to memorize the dictionary, Well 
 
 Combine it with the first point and you will simultaneously improve your **knowledge** and your **language**.
 
-###4. Harness the Power of the Internet
+### 4. Harness the Power of the Internet
 
 Consider yourself very lucky for you are living in the age where a whole lot of information is available to you no matter where you are living. The Internet is a huge resource and you should utilize it fully. Learn as much as you can and limit the time you spend on time thieves such as Facebook and Whatsapp.
 
@@ -94,7 +94,7 @@ These are a few resources you can start with:
 I was able to learn the Introductory [Computer Science 50 (CS50) Course of Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) right from the comfort of my own home and for free. What can be better than that? When you can learn from outstanding faculty like [Professor Walter Lewin](https://videolectures.net/mit801f99_physics_classical_mechanics/) for free, you are doing injustice to yourself by not [learning](https://www.academicearth.org/).
 
 
-###5. Wide Range of Activities
+### 5. Wide Range of Activities
 
 
 ![Scottish Parliament](https://3.bp.blogspot.com/-yi3ybuR7fhg/VTDJYbRKZmI/AAAAAAAAmbU/HD_hRXfVcIs/s1600/Scotland_Parliament_Holyrood.jpg)
@@ -109,7 +109,7 @@ Also, universities are not looking for a long list of competitions in your appli
 They are looking for passionate students with genuine interest. So discover your inner passion and actively participate in what you like. If you do that, you will be set for admission glory.
 
 
-###6. Learning Style - Work Hard "Smartly"
+### 6. Learning Style - Work Hard "Smartly"
 
 
 ![Learning Syles](https://www.loving2learn.com/Portals/0/Challenges/Charts/Learning%20Syles%20Chart/Learning%20Style%20Charts.GIF)
@@ -124,7 +124,7 @@ Search for [learning styles](https://www.learning-styles-online.com/overview/) o
 See which [notes](https://www.oalevelnotes.com/) are effective: others or your own. See which type of books you like: concise or elaborate. See whether you can self-study or need someone's help. Are you a visual learner or do you learn better with recorded lectures? And so on and so forth.
 
 
-###7. A Level Plan
+### 7. A Level Plan
 
 
 ![School Building](https://2.bp.blogspot.com/-OlQ1WNy7WZM/VTDI30rOanI/AAAAAAAAma0/jIVKxwCX00E/s1600/300px-Forest_Lawn_High_School_6.jpg)
@@ -136,7 +136,7 @@ Learn from your O Level experiences and in your final year, decide what's best f
 Note: **Further Mathematics** is close to essential if you are looking for Science, Tech or Engineering admission in an International University.
 
 
-###8. SET YOUR TARGET
+### 8. SET YOUR TARGET
 
 
 ![Dart Board](https://4.bp.blogspot.com/-6oxw1I7HawA/VTDI-7GtA7I/AAAAAAAAmbE/pKEDPPvwqnQ/s1600/target-34560_640.png)
@@ -148,7 +148,7 @@ Be it the dream startup, the dream job, or the dream admission, **set** your goa
 For example if your dream is Harvard, check out its [website](https://www.harvard.edu/) and see what type of students they are looking for. Look at admissions of [previous years](https://talk.collegeconfidential.com/harvard-university/), participate in [college admission forums](https://www.collegeconfidential.com/), surf the web for advice, ask the people around you, etc.
 
 
-###9. Enjoy!
+### 9. Enjoy!
 
 I don't think I need to explain this one :P
 

@@ -8,7 +8,7 @@ tags: [Sukkur,Speech,MOSWC]
 ![Getting Prize from Khursheed Shah](https://1.bp.blogspot.com/-m2jPYwiK78Q/Vf51zUZO2BI/AAAAAAAAuAQ/9Qk2KXO4nNA/s1600/11027936_1006225536088831_5423648638729627690_n.jpg)
 
 
-#####06 September 2015 
+##### 06 September 2015 
 Assalamualaikum and Good Morning,
 
 

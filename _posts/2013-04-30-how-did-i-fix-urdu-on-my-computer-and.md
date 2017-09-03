@@ -10,7 +10,7 @@ tags: [Tutorial]
 As of now, I am able to write urdu anywhere without any urdu keyboard on my computer. I have nastaleeq and other awesome fonts installed which I can use anywhere on my computer for example on office, photoshop (middle east version), etc. I am able to read in the beautiful nastaleeq font. And with two clicks I am able to find meaning for any word I want. So Lets see how I did this all:
 
 
-###1. Install Urdu Phonetic Keyboard
+### 1. Install Urdu Phonetic Keyboard
 
 To make typing easier on non-urdu keyboards there are phonetic keyboards which match english letter sounds with urdu ones. This way it's much easier to write. For example w is for و -
 
@@ -29,7 +29,7 @@ Windows 7
 
 After that whenever you want to type in urdu just press Shift+Alt and you will be able to shift between English and Urdu.
 
-###2. Install Urdu Fonts
+### 2. Install Urdu Fonts
 
 1. To get Urdu fonts on your computer install the [Pak Urdu   Installer](https://www.mbilalm.com/download/pak-urdu-installer.php) which includes artistic font ["Jameel Noori Nastaleeq"](https://www.mbilalm.com/urdu-font.php),CRULP font ["Nafees Web Naskh"](https://www.crulp.org/) and BBC Urdu font ["Urdu Naskh Asia Type"](https://www.bbc.co.uk/urdu/). These all are Unicode True Type font (ttf).
 
@@ -37,7 +37,7 @@ After that whenever you want to type in urdu just press Shift+Alt and you will b
 
 Once you install the above fonts, you will notice improved fonts in many urdu websites. Also, you can now write in Urdu in these fonts.
 
-###3. Fix Urdu of Some Websites
+### 3. Fix Urdu of Some Websites
 
 There are several occasions when we find good urdu content but the font is bad so we leave it like wikipedia, bbc, express, etc. Some websites already use Nastaleeq fonts as default and for them you just have to install the fonts. That is good but not many people have these fonts installed. If you have done step 2 you can visit these sites. One of them is https://beta.jang.com.pk/.
 
@@ -74,7 +74,7 @@ The english font may become bad on the sites you include so it is recommended yo
 Now you can read urdu comfortably. If you don't like the size press ctrl + Plus to increase size.
 
 
-###4. The Dictionary
+### 4. The Dictionary
 
 Go to [chrome://settings/searchEngines](chrome://settings/searchEngines) and there will be three text boxes below. Type the following into each of the three columns:
 * First Column: clepk.org

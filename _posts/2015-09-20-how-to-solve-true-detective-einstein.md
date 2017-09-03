@@ -17,7 +17,7 @@ tags: [intro]
 If you participated in the True Detective event of FGS Science Carnival 2015 at FFC Grammar School, Mirpur Mathelo, you would have encountered a modified/localised version of the Einstein Puzzle. If you haven't attempted it before, I will highly recommend you to try it first and then see the solution below.
 
 
-###The Puzzle: 
+### The Puzzle: 
 There are 5 houses in 5 different colours. In each house lives a person of a different nationality. The 5 owners drink a certain type of drink, drive a certain type of car, and keep a certain pet. Using the clues below can you determine who keeps the wolves?  
 
 1. The Pakistani lives in a red house.
@@ -36,39 +36,39 @@ There are 5 houses in 5 different colours. In each house lives a person of a dif
 14. The Brit lives next to the blue house.
 15. The man who drives a Honda has a neighbour who drinks water.
 
-####Only proceed if you have attempted it once. Otherwise, you will only be ruining the fun for yourself.
+#### Only proceed if you have attempted it once. Otherwise, you will only be ruining the fun for yourself.
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####SPOILER
+#### SPOILER
 
 
-####Only proceed if you have attempted it once. Otherwise, you will only be ruining the fun for yourself.
+#### Only proceed if you have attempted it once. Otherwise, you will only be ruining the fun for yourself.
 
-###Solution:
+### Solution:
 
 1. Draw a table like this: 
 ![](https://2.bp.blogspot.com/-kD5q01-q3HQ/Vf5_mtBBHFI/AAAAAAAAuAo/E5PSmG0Q0Wk/s1600/Slide1.PNG)

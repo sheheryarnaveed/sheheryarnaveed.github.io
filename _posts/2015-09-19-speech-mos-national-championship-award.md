@@ -7,7 +7,7 @@ tags: [Karachi,Speech,MOSWC]
 ![MOS National Championship 2015 Prize Distribution Ceremony Pakistan](https://3.bp.blogspot.com/-xPxsiHRxo40/Vf50WGeW16I/AAAAAAAAuAE/BCJRshfDhU0/s1600/IMG_20150919_103624376.jpg)
 
 
-#####19 September 2015
+##### 19 September 2015
 Assalamualaikum and Good Morning,
 
 Its an honour for me to be standing here in front of an esteemed audience that includes respected Chairman Senate Mr. Raza Rabbani, Madam Rukhsana Zuberi, National Champions, participants, their families and their schools. Also, I am thankful to TEC Education Foundation for organizing this great event and recognizing me along with others.
