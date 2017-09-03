@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Farewell Speech - Class of 2016
 excerpt: "A speech recounting the 15 years of our class at FFC Grammar School Mirpur Mathelo and thanking those who made it special."
 created: 2016-04-18T21:00:00.00+05:00
 tags: [intro]
-comments: true
 ---
 
 <figure class="small">

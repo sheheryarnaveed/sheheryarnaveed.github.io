@@ -5,7 +5,7 @@ excerpt: "A school essay about education."
 tags: [Education]
 ---
 
-![Children studying in class.](http://1.bp.blogspot.com/--FprL3QOTds/VRu6fkrCc5I/AAAAAAAAmSg/Uaouv2doxZ8/s1600/2012-09-education-1-640x480.jpg)
+![Children studying in class.](https://1.bp.blogspot.com/--FprL3QOTds/VRu6fkrCc5I/AAAAAAAAmSg/Uaouv2doxZ8/s1600/2012-09-education-1-640x480.jpg)
 
 I strongly feel that without education a nation cannot prosper. This is 
 evident by looking at those present and past civilizations who over a course 

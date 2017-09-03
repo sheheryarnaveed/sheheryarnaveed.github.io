@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Digital Piracy - Morally Wrong
 date: '2012-09-29T18:29:00.000+05:00'
 excerpt: "A few thoughts about Piracy."
-comments: true
 tags: [Digital World,Piracy]
 ---
 
-![Pirate Flag](http://1.bp.blogspot.com/-W9MyX5dIaKQ/VRu6Ob-RfNI/AAAAAAAAmSY/DqjesHFOn2Q/s1600/2012-09-250px-flag_of_edward_england-svg.png) 
+![Pirate Flag](https://1.bp.blogspot.com/-W9MyX5dIaKQ/VRu6Ob-RfNI/AAAAAAAAmSY/DqjesHFOn2Q/s1600/2012-09-250px-flag_of_edward_england-svg.png) 
 
 Piracy is a major problem for multinational software companies. They try hard, 
 invest a lot and spend a big amount of time creating the perfect 

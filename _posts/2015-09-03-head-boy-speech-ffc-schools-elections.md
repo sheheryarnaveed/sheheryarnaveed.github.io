@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Head Boy Speech - FFC Schools Elections 2015
 date: '2015-09-03T15:34:00.000+05:00'
-comments: true
 excerpt: "The speech I made to the school during the Elections 2015 Campaign."
 tags: [School,Speech,Elections]
 ---
 
-![Election Campaign Circular/Manifesto](http://1.bp.blogspot.com/-_ZWXyXG1wWQ/Vegcjc6xE3I/AAAAAAAAtZw/WUOm7yZHFeo/s1600/2.png)
+![Election Campaign Circular/Manifesto](https://1.bp.blogspot.com/-_ZWXyXG1wWQ/Vegcjc6xE3I/AAAAAAAAtZw/WUOm7yZHFeo/s1600/2.png)
 
 
 I remember years ago, like you I was sitting here in the Iqbal Hall listening to the speeches of my seniors, deciding who to vote, who is the best, who to choose. That was 7 years ago, it was the first election of our school. Now, as I enter the last year of 14 years of my school life here, I too have been given the chance to represent you all.

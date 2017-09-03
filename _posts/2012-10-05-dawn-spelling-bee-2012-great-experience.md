@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Dawn Spelling Bee 2012 - A Great Experience
 date: '2012-10-05T17:52:00.000+05:00'
 excerpt: "My experience of going to Karachi and participating in the Dawn Spelling Bee 2012."
-comments: true
 tags: [Experience,Spelling Bee]
 ---
 
-![Dawn Spelling Bee Logo](http://1.bp.blogspot.com/-bn-pQ_PB-XM/VRu52zpmB0I/AAAAAAAAmSQ/rWhCMe_yItE/s1600/2012-10-314996_246992745342213_4692160_n.jpg)
+![Dawn Spelling Bee Logo](https://1.bp.blogspot.com/-bn-pQ_PB-XM/VRu52zpmB0I/AAAAAAAAmSQ/rWhCMe_yItE/s1600/2012-10-314996_246992745342213_4692160_n.jpg)
 
 With high hopes and preparation our group which included Rabia (my sister), Komal and I along with 12-14 age group team, Sir Nasir Asad and Madam Rubi Sabah set out for Karachi at 8 in the morning for the second round of spelling bee, the regionals. Our school "FFC Grammar School" had won the 12-14 (Shahmeer Ishaq, Marvi Pitafi, Namra Asghar) and 15-17(mine) age group in the district rounds of Sukkur and now we were aiming to qualify for the Dawn National Spelling Bee 2012 at Islamabad.
 

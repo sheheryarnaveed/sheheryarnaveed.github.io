@@ -1,12 +1,10 @@
 ---
-layout: post
 title: Speech - MOS National Championship Award Ceremony
 date: '2015-09-19T14:04:00.000+05:00'
 excerpt: "I was asked to speak during the MOS National Championship Award Ceremony and this is what I said."
-comments: true
 tags: [Karachi,Speech,MOSWC]
 ---
-![MOS National Championship 2015 Prize Distribution Ceremony Pakistan](http://3.bp.blogspot.com/-xPxsiHRxo40/Vf50WGeW16I/AAAAAAAAuAE/BCJRshfDhU0/s1600/IMG_20150919_103624376.jpg)
+![MOS National Championship 2015 Prize Distribution Ceremony Pakistan](https://3.bp.blogspot.com/-xPxsiHRxo40/Vf50WGeW16I/AAAAAAAAuAE/BCJRshfDhU0/s1600/IMG_20150919_103624376.jpg)
 
 
 #####19 September 2015

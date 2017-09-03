@@ -1,18 +1,16 @@
 ---
-layout: post
 title: How to Solve the True Detective Einstein Puzzle?
 excerpt: "If you like problem-solving or attended the FGS Science Carnival 2015, this is for you."
 created: 2015-09-20T15:45:08.495+05:00
 tags: [intro]
-comments: true
 ---
 
 <figure class="small">
-	<img alt="FGS Science Carnival 2015 Logo" src="http://4.bp.blogspot.com/-FOkL9rh9T0o/Vf6DreiyB0I/AAAAAAAAuCc/eZph1RpFRxE/s1600/Science%2BCarnival%2BLogo%2BNice%2BBackground.png"></a>
+	<img alt="FGS Science Carnival 2015 Logo" src="https://4.bp.blogspot.com/-FOkL9rh9T0o/Vf6DreiyB0I/AAAAAAAAuCc/eZph1RpFRxE/s1600/Science%2BCarnival%2BLogo%2BNice%2BBackground.png"></a>
 </figure>
 
 <figure class="small">
-	<img alt="True Detective Event Poster" src="http://2.bp.blogspot.com/-IRwxVL_AwYY/Vf6FIKi8hkI/AAAAAAAAuCk/t23rTzTL1hg/s1600/Slide4.PNG"></a>
+	<img alt="True Detective Event Poster" src="https://2.bp.blogspot.com/-IRwxVL_AwYY/Vf6FIKi8hkI/AAAAAAAAuCk/t23rTzTL1hg/s1600/Slide4.PNG"></a>
 </figure>
 
 
@@ -73,68 +71,68 @@ There are 5 houses in 5 different colours. In each house lives a person of a dif
 ###Solution:
 
 1. Draw a table like this: 
-![](http://2.bp.blogspot.com/-kD5q01-q3HQ/Vf5_mtBBHFI/AAAAAAAAuAo/E5PSmG0Q0Wk/s1600/Slide1.PNG)
+![](https://2.bp.blogspot.com/-kD5q01-q3HQ/Vf5_mtBBHFI/AAAAAAAAuAo/E5PSmG0Q0Wk/s1600/Slide1.PNG)
 
 
 2. Brit is the first and he lives next to the blue house.
-![](http://2.bp.blogspot.com/-jnh3QkwkWJI/Vf5_raJMvRI/AAAAAAAAuBg/8oGlEBfkF-k/s1600/Slide2.PNG)
+![](https://2.bp.blogspot.com/-jnh3QkwkWJI/Vf5_raJMvRI/AAAAAAAAuBg/8oGlEBfkF-k/s1600/Slide2.PNG)
 
 
 3. The middle house drinks Milk. (Sentence 8)
-![](http://4.bp.blogspot.com/--uAKqK0f60Y/Vf5_rssIobI/AAAAAAAAuBk/H8izutbk_U4/s1600/Slide3.PNG) 
+![](https://4.bp.blogspot.com/--uAKqK0f60Y/Vf5_rssIobI/AAAAAAAAuBk/H8izutbk_U4/s1600/Slide3.PNG) 
 
 
 4. Green is to the left of White (Sentence 3) so the only possibilities 
 are 3,4 or 4,5. But Green cannot be at 3 because he drinks coffee (Sentence 
 5) 
-![](http://2.bp.blogspot.com/-sofnfwpKllI/Vf5_sILjHYI/AAAAAAAAuBs/jJc_6QeCU8w/s1600/Slide4.PNG) 
+![](https://2.bp.blogspot.com/-sofnfwpKllI/Vf5_sILjHYI/AAAAAAAAuBs/jJc_6QeCU8w/s1600/Slide4.PNG) 
 
 
 5. Pakistani lives in a red house (Sentence 1) and the only column without a 
 nationality and colour is 3rd. 
-![](http://4.bp.blogspot.com/-DdolP3-JirE/Vf5_s8Hyc5I/AAAAAAAAuB0/mTEuIMmAU9M/s1600/Slide5.PNG) 
+![](https://4.bp.blogspot.com/-DdolP3-JirE/Vf5_s8Hyc5I/AAAAAAAAuB0/mTEuIMmAU9M/s1600/Slide5.PNG) 
 
 
 6. This makes 1st column yellow and the car a Suzuki (Sentence 7) 
-![](http://2.bp.blogspot.com/-pMK6Ca7Bq7Y/Vf5_tVCxHJI/AAAAAAAAuB8/vq8wQTPXWRo/s1600/Slide6.PNG) 
+![](https://2.bp.blogspot.com/-pMK6Ca7Bq7Y/Vf5_tVCxHJI/AAAAAAAAuB8/vq8wQTPXWRo/s1600/Slide6.PNG) 
 
 
 7. The neighbour of the house with Suzuki keeps horses (Sentence 11) 
-![](http://4.bp.blogspot.com/-5-HUiHQIALs/Vf5_tzlBbzI/AAAAAAAAuCE/qbzzJGJ0TQ8/s1600/Slide7.PNG) 
+![](https://4.bp.blogspot.com/-5-HUiHQIALs/Vf5_tzlBbzI/AAAAAAAAuCE/qbzzJGJ0TQ8/s1600/Slide7.PNG) 
 
 
 8. (Sentence 15) The man who drives a Honda has a neighbour who drinks water. 
 One possibility is house 2. 
-![](http://2.bp.blogspot.com/-Yp-LTa4Sw14/Vf5_us6s6WI/AAAAAAAAuCI/lwiqPYtYtXk/s1600/Slide8.PNG) 
+![](https://2.bp.blogspot.com/-Yp-LTa4Sw14/Vf5_us6s6WI/AAAAAAAAuCI/lwiqPYtYtXk/s1600/Slide8.PNG) 
 
 
 9. Bentley and Chocolate can only be together in house 5. (Sentence 12) 
-![](http://1.bp.blogspot.com/-oZK3XsJprDE/Vf5_vjoksBI/AAAAAAAAuCQ/c54jvCCUaMo/s1600/Slide9.PNG) 
+![](https://1.bp.blogspot.com/-oZK3XsJprDE/Vf5_vjoksBI/AAAAAAAAuCQ/c54jvCCUaMo/s1600/Slide9.PNG) 
 
 
 10. Lassi is the only drink that's left so House 2 is lassi and American 
 (Sentence 3) 
-![](http://2.bp.blogspot.com/-anwEacfxs-M/Vf5_nNcL3iI/AAAAAAAAuAs/0qAoyYzuxX8/s1600/Slide10.PNG) 
+![](https://2.bp.blogspot.com/-anwEacfxs-M/Vf5_nNcL3iI/AAAAAAAAuAs/0qAoyYzuxX8/s1600/Slide10.PNG) 
 
 
 11. The only house with an empty nationality and car is house 4, so house 4 
 must be Indian and BMW (Sentence 13) 
-![](http://1.bp.blogspot.com/-Dh3X1uJqSdg/Vf5_nW_d3SI/AAAAAAAAuAw/00dR6nCnwto/s1600/Slide11.PNG) 
+![](https://1.bp.blogspot.com/-Dh3X1uJqSdg/Vf5_nW_d3SI/AAAAAAAAuAw/00dR6nCnwto/s1600/Slide11.PNG) 
 
 
 12. Now, only Swede is left and he keeps dogs (Sentence 2). We will also fill 
 the car that's left. 
-![](http://2.bp.blogspot.com/-x2PJZvrZQoY/Vf5_pFkavOI/AAAAAAAAuBA/VQC12jBC8_w/s1600/Slide12.PNG) 
+![](https://2.bp.blogspot.com/-x2PJZvrZQoY/Vf5_pFkavOI/AAAAAAAAuBA/VQC12jBC8_w/s1600/Slide12.PNG) 
 
 
 13. The person who drives Toyota rears birds (Sentence 6) 
-![](http://2.bp.blogspot.com/-sVG7dmpFUhM/Vf5_pJmkKbI/AAAAAAAAuBE/1aj1yDcLquY/s1600/Slide13.PNG) 
+![](https://2.bp.blogspot.com/-sVG7dmpFUhM/Vf5_pJmkKbI/AAAAAAAAuBE/1aj1yDcLquY/s1600/Slide13.PNG) 
 
 
 14. The man who drives a Honda lives next door to the one who keeps cats. 
 (Sentence 10) 
-![](http://2.bp.blogspot.com/-6KE5yJ9Li98/Vf5_qNq4IYI/AAAAAAAAuBM/91RX_-oehG8/s1600/Slide14.PNG) 
+![](https://2.bp.blogspot.com/-6KE5yJ9Li98/Vf5_qNq4IYI/AAAAAAAAuBM/91RX_-oehG8/s1600/Slide14.PNG) 
 
 
 15. Who keeps the wolves? Indian 
-![](http://4.bp.blogspot.com/-DbRntGUtxeQ/Vf5_q3d07bI/AAAAAAAAuBY/yyX9kCQ9Ne8/s1600/Slide15.PNG) 
+![](https://4.bp.blogspot.com/-DbRntGUtxeQ/Vf5_q3d07bI/AAAAAAAAuBY/yyX9kCQ9Ne8/s1600/Slide15.PNG) 

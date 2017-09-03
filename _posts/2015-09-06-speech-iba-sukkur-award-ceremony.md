@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Speech - IBA Sukkur Award Ceremony
 date: '2015-09-06T17:00:00.000+05:00'
 excerpt: "The speech I delivered in the event organized by Mr. Khursheed Shah and IBA to recognize me."
-comments: true
 tags: [Sukkur,Speech,MOSWC]
 ---
 
-![Getting Prize from Khursheed Shah](http://1.bp.blogspot.com/-m2jPYwiK78Q/Vf51zUZO2BI/AAAAAAAAuAQ/9Qk2KXO4nNA/s1600/11027936_1006225536088831_5423648638729627690_n.jpg)
+![Getting Prize from Khursheed Shah](https://1.bp.blogspot.com/-m2jPYwiK78Q/Vf51zUZO2BI/AAAAAAAAuAQ/9Qk2KXO4nNA/s1600/11027936_1006225536088831_5423648638729627690_n.jpg)
 
 
 #####06 September 2015 

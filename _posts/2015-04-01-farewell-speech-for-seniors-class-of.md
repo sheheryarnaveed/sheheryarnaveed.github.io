@@ -1,13 +1,11 @@
 ---
-layout: post
 title: Farewell Speech for Seniors (The Class of 2015)
 date: '2015-04-01T13:26:00.002+05:00'
 excerpt: "The speech I delivered on the Class of 2015's farewell."
-comments: true
 tags: [School,Speech,Farewell]
 ---
 
-![Delivering Speech](http://3.bp.blogspot.com/-Wsrn5yEhAo4/VRurpFDp63I/AAAAAAAAmRo/PW0DgLebr30/s1600/DSC_0504.JPG)
+![Delivering Speech](https://3.bp.blogspot.com/-Wsrn5yEhAo4/VRurpFDp63I/AAAAAAAAmRo/PW0DgLebr30/s1600/DSC_0504.JPG)
 
 _Respected Principal, Vice Principal, Heads, Teachers and Dear Friends,_
 
