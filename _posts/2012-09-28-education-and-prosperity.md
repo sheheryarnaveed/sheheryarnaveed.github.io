@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Education and Prosperity
 date: '2012-09-28T05:31:00.000+05:00'
 excerpt: "A school essay about education."
-comments: true
 tags: [Education]
 ---
 
