@@ -6,7 +6,7 @@ tags: [speech]
 ---
 
 <figure class="small">
-	<a href="/"><img src="assets/images/toastmasterscc1.jpg"></a>
+	<a href="/"><img src="/assets/images/toastmasterscc1.jpg"></a>
 </figure>
 
 ##### A Toastmaster's speaking experience begins with their Competent Communication 1 (CC1) speech, also known as The Ice Breaker Speech. This is mine.
