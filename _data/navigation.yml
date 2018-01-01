@@ -4,6 +4,8 @@ main:
     url: /assets/docs/R.pdf
   - title: "Projects"
     url: /projects/
+    - title: "About"
+    url: /projects/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
