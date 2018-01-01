@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-
+locale                   : "en"
 title                    : "Sheheryar Naveed"
 title_separator          : "-"
 name                     : "Sheheryar Naveed"
@@ -54,7 +54,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter                  : "sheheryar.naveed"
+twitter                  :
   username               :
 facebook:
   username               : "sheheryar.naveed"
