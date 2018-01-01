@@ -4,13 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-theme: jekyll-theme-minimal
+
 # Site Settings
 locale                   : "en"
-title                    : "Sheheryar Naveed"
+title                    : "Waqas Ali"
 title_separator          : "-"
-name                     : "Sheheryar Naveed"
-description              : "One more boring CS-lover."
+name                     : "Waqas Ali"
+description              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
 url                      : "https://sheheryarnaveed.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -18,9 +18,9 @@ teaser                   : /assets/images/relatedpostfallback.jpg # path of fall
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "waqasaliabbasi" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -54,10 +54,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter                  :
-  username               :
+twitter:
+  username               : "waqas_aliabbasi"
 facebook:
-  username               : "sheheryar.naveed"
+  username               : "waqasaliabbasi14"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sheheryar Naveed"
+  name             : "Waqas Ali"
   avatar           : "/assets/images/web logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "One more boring CS-lover."
-  location         : "Sassoon Road, Hong Kong"
-  email            : "sheheryar-naveed@hotmail.com"
+  bio              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
+  location         : "Kennedy Town, Hong Kong"
+  email            : "waqas.abbasi@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sheheryarnaveed"
+  facebook         : "waqasaliabbasi14"
   foursquare       :
-  github           : "sheheryarnaveed"
+  github           : "WaqasAliAbbasi"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "waqasaliabbasi" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
