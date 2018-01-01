@@ -18,9 +18,9 @@ teaser                   : /assets/images/relatedpostfallback.jpg # path of fall
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "waqasaliabbasi" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Sheheryar Naveed"
-  avatar           : "/assets/images/Waqas Ali.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/web logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "One more boring CS-lover."
   location         : "Sassoon Road, Hong Kong"
   email            : "sheheryar-naveed@hotmail.com"
