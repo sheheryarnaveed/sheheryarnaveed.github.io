@@ -45,7 +45,8 @@ background-color: $footer-background-color;
   }
 
   .fa {
-    color: mix(#fff, $gray, 25%);
+    color: $muted-text-color;
+    //color: mix(#fff, $gray, 25%);
   }
 }
 
