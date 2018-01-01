@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Waqas Ali"
+title                    : "Sheheryar Naveed"
 title_separator          : "-"
-name                     : "Waqas Ali"
-description              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
-url                      : "https://waqasaliabbasi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Sheheryar Naveed"
+description              : "One more boring CS-lover."
+url                      : "https://sheheryarnaveed.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/relatedpostfallback.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -54,10 +54,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : "waqas_aliabbasi"
+twitter                  : "sheheryar.naveed"
+  username               :
 facebook:
-  username               : "waqasaliabbasi14"
+  username               : "sheheryar.naveed"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Waqas Ali"
+  name             : "Sheheryar Naveed"
   avatar           : "/assets/images/Waqas Ali.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
-  location         : "Kennedy Town, Hong Kong"
-  email            : "waqas.abbasi@outlook.com"
+  bio              : "One more boring CS-lover."
+  location         : "Sassoon Road, Hong Kong"
+  email            : "sheheryar-naveed@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "waqasaliabbasi14"
+  facebook         : "sheheryarnaveed"
   foursquare       :
-  github           : "WaqasAliAbbasi"
+  github           : "sheheryarnaveed"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "waqasaliabbasi" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
