@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "waqas_aliabbasi"
+  username               : "sheheryarnaveed"
 facebook:
-  username               : "waqasaliabbasi14"
+  username               : "sheheryar.naveed"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -80,16 +80,16 @@ author:
   name             : "Sheheryar Naveed"
   avatar           : "/assets/images/web logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another boring CS-lover."
-  location         : "Kennedy Town, Hong Kong"
-  email            : "waqas.abbasi@outlook.com"
+  location         : "Sassoon Road, Hong Kong"
+  email            : "sheheryar-naveed@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "waqasaliabbasi14"
+  facebook         : "sheheryar-naveed@hotmail.com"
   foursquare       :
-  github           : "WaqasAliAbbasi"
+  github           : "sheheryarnaveed"
   gitlab           :
   google_plus      :
   keybase          :
