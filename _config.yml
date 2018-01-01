@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Sheheryar Naveed"
 title_separator          : "-"
-name                     : "Waqas Ali"
+name                     : "Sheheryar Naveed"
 description              : "Just another boring CS-lover."
 url                      : "https://waqasaliabbasi.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Waqas Ali"
+  name             : "Sheheryar Naveed"
   avatar           : "/assets/images/web logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a HKU '20 who loves all things tech and chikoo milkshake."
+  bio              : "Just another boring CS-lover."
   location         : "Kennedy Town, Hong Kong"
   email            : "waqas.abbasi@outlook.com"
   uri              :
