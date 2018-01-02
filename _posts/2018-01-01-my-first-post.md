@@ -1,6 +1,6 @@
 ---
 title: My First Post
 excerpt: feeling excited
-comments: true
+tags: education
 ---
 This is my first post.
