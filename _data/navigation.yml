@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Resume"
-    url: /assets/docs/R.pdf
+  - title: "About"
+    url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "About"
-    url: /projects/
+  - title: "Resume"
+    url: /assets/docs/R.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
