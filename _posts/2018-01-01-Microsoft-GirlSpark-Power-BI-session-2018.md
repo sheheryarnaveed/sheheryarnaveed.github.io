@@ -32,7 +32,7 @@ Some of the technical stuff taught to girls include making queries, editing thos
 
 The sheer interest of the girls in the technological field could be judged from the fact that some of them even asked me about the web development i.e. Search Engine Optimization to be more precise. It was more related to how can we make the website more popular and search for website becomes more optimized for various search engines and the techniques involved in doing so. It was fun talking them about these technological matters.
 
-<img src="sheheryarnaveed.github.io/assets/images/received_1726173500755155.jpeg" width="550" height="300">
+<img src="https://www.sheheryarnaveed.github.io/assets/images/received_1726173500755155.jpeg" width="550" height="300">
 
 The best part of the workshop was that at the end of the session the girls were playing on with the data over power BI with ease. Though most of them were feeling anxious at the start and others a bit frazzled during the presentation as they were finding difficult to catch up, but eventually I could see the sense of satisfaction glimmering over their faces. It was a good day indeed. 
 
