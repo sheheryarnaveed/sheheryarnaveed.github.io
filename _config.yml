@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Sheheryar Naveed"
-  avatar           : "/assets/images/web logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/AAEAAQAAAAAAAAueAAAAJGU0NDQ2ZjFiLTYxNTItNDk0NS1hZTc3LTNkYTFhNWIxNjYwNQ.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another boring CS-lover."
   location         : "Sassoon Road, Hong Kong"
   email            : "sheheryar-naveed@hotmail.com"
