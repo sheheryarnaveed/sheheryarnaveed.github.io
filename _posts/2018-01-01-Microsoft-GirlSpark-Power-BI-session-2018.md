@@ -17,7 +17,7 @@ published: true
 <img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg" width="650" height="450">
 
 
-![team]({{site.baseurl}}/_posts/received_1726173630755142.jpeg)
+![team](https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg)
 
 
 ### Brief Introduction to Microsoft GirlSpark:
