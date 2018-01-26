@@ -1,7 +1,10 @@
 ---
 title: Microsoft GirlSpark Power BI session 2018
-date: 2018-01-03
-excerpt: I was among those five MSPs (Microsoft Student Partners) who were chosen to assist girls during the “Power BI” session and it turned out to be a great experience which I’ll be sharing in this post.
+date: {}
+excerpt: >-
+  I was among those five MSPs (Microsoft Student Partners) who were chosen to
+  assist girls during the “Power BI” session and it turned out to be a great
+  experience which I’ll be sharing in this post.
 comments: true
 tags:
   - Education
@@ -12,6 +15,10 @@ published: true
 ---
 
 <img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg" width="650" height="450">
+
+
+![team]({{site.baseurl}}/_posts/received_1726173630755142.jpeg)
+
 
 ### Brief Introduction to Microsoft GirlSpark:
 This is an event co-organized by Microsoft Hong Kong, LinkedIn Hong Kong, and The Women’s Foundation which includes a series of hands-on activities with the purpose of making full-time women seeking degrees in various universities well-aware of the diverse career pathways in the IT (Information Technology) industry and to utilize the technology to spark for a better future.
@@ -34,7 +41,4 @@ The sheer interest of the girls in the technological field could be judged from 
 
 <img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173500755155.jpeg" width="650" height="450">
 
-The best part of the workshop was that at the end of the session the girls were playing on with the data over power BI with ease. Though most of them were feeling anxious at the start and others a bit frazzled during the presentation as they were finding difficult to catch up, but eventually I could see the sense of satisfaction glimmering over their faces. It was a good day indeed. 
-
-
-
+The best part of the workshop was that at the end of the session the girls were playing on with the data over power BI with ease. Though most of them were feeling anxious at the start and others a bit frazzled during the presentation as they were finding difficult to catch up, but eventually I could see the sense of satisfaction glimmering over their faces. It was a good day indeed.
