@@ -26,13 +26,13 @@ It was kind of brouhaha everywhere. Some of the Microsoft employees were making 
 
 The workshop was conducted by Michelle, a Business Intelligence intern at Microsoft Hong Kong. The session started at about quarter to ten in morning. All the girls were from leading universities of Hong Kong some of which include Hong Kong U, HKUST, CityU, CUHK and PolyU. We were asked to disperse around and help anyone in need. Michelle started by first giving them a brief explanation on Power BI and where is it used. She gave a step by step guide to girls which they were supposed to follow. I could see many girls who knew about Power BI already. The girls were welcomed to raise any question and most of those were answered by the MSPs moving around in there. Some of the girls even encountered difficulties setting up power BI in their laptops, but MSPs were there to help around.
 
-<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726639270708578.jpeg" width="400" height="300">
+<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726639270708578.jpeg" width="650" height="450">
 
 Some of the technical stuff taught to girls include making queries, editing those, changing the data type, addition of categories and subcategories, different ways of representing data i.e. on a map, bar charts etc., making data more interactive and much more. Michelle also tested them by giving them short questions or exercises may be to check out if they’ve really understood the use of Power BI.
 
 The sheer interest of the girls in the technological field could be judged from the fact that some of them even asked me about the web development i.e. Search Engine Optimization to be more precise. It was more related to how can we make the website more popular and search for website becomes more optimized for various search engines and the techniques involved in doing so. It was fun talking them about these technological matters.
 
-<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173500755155.jpeg" width="400" height="300">
+<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173500755155.jpeg" width="650" height="450">
 
 The best part of the workshop was that at the end of the session the girls were playing on with the data over power BI with ease. Though most of them were feeling anxious at the start and others a bit frazzled during the presentation as they were finding difficult to catch up, but eventually I could see the sense of satisfaction glimmering over their faces. It was a good day indeed. 
 
