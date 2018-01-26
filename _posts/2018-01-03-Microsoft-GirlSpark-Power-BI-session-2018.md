@@ -14,7 +14,7 @@ published: true
 ![My helpful screenshot]({{ "/assets/images/received_1726639270708578.jpeg" | "https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master" }})
 
 
-<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726639270708578.jpeg" width="500" height="450">
+<img src="sheheryarnaveed.github.io/assets/images/received_1726639270708578.jpeg" width="500" height="450">
 
 ![team](https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg)
 
