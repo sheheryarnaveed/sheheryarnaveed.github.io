@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft GirlSpark Power BI session 2018
-date: {}
+date: 2018-01-01
 excerpt: >-
   I was among those five MSPs (Microsoft Student Partners) who were chosen to
   assist girls during the “Power BI” session and it turned out to be a great
