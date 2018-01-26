@@ -14,6 +14,8 @@ tags:
 published: true
 ---
 
+![My helpful screenshot]({{ "assets/images/received_1726173630755142.jpeg" | absolute_url }})
+
 ![team](https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg)
 
 
