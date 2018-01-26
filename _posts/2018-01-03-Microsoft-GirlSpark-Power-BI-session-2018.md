@@ -14,7 +14,7 @@ tags:
 published: true
 ---
 
-![team](www.github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg)
+![team](https://www.github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg)
 
 
 ### Brief Introduction to Microsoft GirlSpark:
