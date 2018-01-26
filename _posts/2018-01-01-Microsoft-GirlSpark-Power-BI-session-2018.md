@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg" width="550" height="450">
+<img src="https://github.com/sheheryarnaveed/sheheryarnaveed.github.io/blob/master/assets/images/received_1726173630755142.jpeg" width="650" height="450">
 
 ### Brief Introduction to Microsoft GirlSpark:
 This is an event co-organized by Microsoft Hong Kong, LinkedIn Hong Kong, and The Women’s Foundation which includes a series of hands-on activities with the purpose of making full-time women seeking degrees in various universities well-aware of the diverse career pathways in the IT (Information Technology) industry and to utilize the technology to spark for a better future.
