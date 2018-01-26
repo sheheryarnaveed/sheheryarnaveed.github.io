@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Microsoft GirlSpark Power BI session 2018
 date: 2018-01-03
 excerpt: >-
