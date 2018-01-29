@@ -11,3 +11,7 @@ tags:
 published: true
 ---
 I'll publish and share it with you very soon. I made a holographic application for the first time.
+
+
+
+For now just read the power BI session post which is complete.
