@@ -11,3 +11,7 @@ tags:
 published: true
 ---
 I'll publish and share it with you very soon. It was an informative session indeed; thanks to Microsoft Hong kong.
+
+
+
+For now just read the power BI session post which is complete.
