@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-The actual site where the article got published could be seen <a href="http://www.als.hku.hk/hkudos/hk-the-worlds-most-tourists-visited-place-of-2017/" >here</a>
+The actual site where the article got published could be seen <a href="http://www.als.hku.hk/hkudos/hk-the-worlds-most-tourists-visited-place-of-2017/" >here</a>.
 
 ![team](/assets/images/featured_10-02-2018.jpg)
 
