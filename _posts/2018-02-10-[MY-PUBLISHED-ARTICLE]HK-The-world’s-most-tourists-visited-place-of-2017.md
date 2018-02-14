@@ -1,7 +1,9 @@
 ---
-title: \[MY PUBLISHED ARTICLE\] HK-The world’s most tourists visited place of 2017
-date: 2018-02-10T10:30:00.000+05:00
-excerpt: HK for the first time in its history became the most tourist visited site of 2017.
+title: '[MY PUBLISHED ARTICLE] HK-The world’s most tourists visited place of 2017'
+date: {}
+excerpt: >-
+  HK for the first time in its history became the most tourist visited site of
+  2017.
 comments: true
 tags:
   - tourism
@@ -34,4 +36,3 @@ Furthermore, an uncommon cause of HK’s increased tourism is the growth of inte
 It is believed that HK’s tourism industry still has some room for growth in future. Although it was believed that the densely populated area has an acute shortage of land, HK’s skyline is dotted with a lot of hotels which means that accommodation of overnight visitors isn’t a problem. The available opportunities combined with HK’s potential to accommodate internationals, a greater surge in HK’s tourism industry is expected to be seen very soon.
 
 ![team](/assets/images/HKUInternationalstat_10-02-2018.jpg)
-
