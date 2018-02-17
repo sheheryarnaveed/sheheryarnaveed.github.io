@@ -1,10 +1,7 @@
 ---
 title: Design Thinking Skills for prodcucts
-date: {}
-excerpt: >-
-  If you are a keen hacker in hackathons or otherwise making any type of product
-  you should for sure give a read to learn about some of the skills that might
-  be required for the successful launch of the product.
+date: 2018-02-10T11:30:00.000+05:00
+excerpt: If you are a keen hacker in hackathons or otherwise making any type of product you should for sure give a read to learn about some of the skills that might be required for the successful launch of the product.
 comments: true
 tags:
   - hackathons
@@ -16,7 +13,7 @@ published: true
 
 ## Design Thinking Skills...
 
-![dt3.jpg]({{site.baseurl}}/_posts/dt3.jpg)
+![dt3.jpg](sheheryarnaveed.github.io/assets/images/dt3.jpg)
 
 You might be wondering that this design thinking is related to what we call the way to present our product; that just makes one part of the whole course. There’s much more that makes the core part of it.
 Have you ever wondered how much important is the idea and designing of your project? Probably not because when we first think about the project we need to work on our technical mind focuses only on the mechanization. One thing to note is that before working on your project coming up with a distinct idea is essential. One needs to be very meticulous while shaping the idea. In addition to it, the presentation skills are also very important. In fact, the skills required to come up with the idea and before shaping it into a physical entity is what we call design thinking skills. 
@@ -32,7 +29,7 @@ Second stage is what we call “**DEFINE**”. The fact that this stage is most 
 
 Some of the techniques involved in this process includes organizing large amount of data with respect to the surface trends which was collected in the empathizing stage. A design thinker is expected to translate multiple observations into concise and meaningful instincts. An appropriate way of doing this is by dividing the task in ‘Insights’, ‘Do’, ‘Think’ and ‘Feel’. All these steps have a pivotal role because one needs to frame a challenge that needs to be solved.
 
-![dt2.jpg]({{site.baseurl}}/_posts/dt2.jpg)
+![dt2.jpg](sheheryarnaveed.github.io/assets/images/dt2.jpg)
 
 Next yet critical stage is “**IDEATION**”. This stage is what most people blame their creativity for. Nonetheless, ideation is not all about creativity. There are certain ways to ideate and think further beyond the scope that we’ll be focusing in this subject matter. An important principle to keep in mind is that the first idea is often not always the best idea. In the ideation process, one is expected to give permission to others to express themselves, thorough study of the pros and cons of the given idea and at last yield the best idea.
 
@@ -42,7 +39,7 @@ There are multitudinous frameworks that needs to be explored for this part. Plac
 
 Some effective prototypes are created easily within a short span of time with lowest viable design. Although there are different ways of portraying your idea with different types of prototypes. A most common type is the story telling using a prototype to give the end user an experience. It’d be a great idea to build low fidelity prototypes by mockups, acting and story-telling. From what I remember when I did the prototype part during my workshop was to make a television using the pizza boxes, looking old using masking tapes on carboard and placing it on my head, making a hat out of a disposable plate etc. Although it looks crazy but not only it was fun doing this part but also it was a great experience of my first prototype.
 
-![dt1.jpg]({{site.baseurl}}/_posts/dt1.jpg)
+![dt1.jpg](sheheryarnaveed.github.io/assets/images/dt1.jpg)
 
 Last but not the least is **TEST**ing. Testing anything is vital in any practical work so it is in the Design Thinking process. The sole purpose of this phase is to gain as much amount of feedback from the users about idea and solution as possible. It’s not abut testing the finished product but rather it is about advancing empathy with the customer and remodeling their insights and mindset in return.
 
