@@ -1,5 +1,5 @@
 ---
-title: Design Thinking Skills for prodcucts
+title: Design Thinking Skills for Products
 date: 2018-02-10T11:30:00.000+05:00
 excerpt: If you are a keen hacker in hackathons or otherwise making any type of product you should for sure give a read to learn about some of the skills that might be required for the successful launch of the product.
 comments: true
