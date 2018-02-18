@@ -58,4 +58,4 @@ _VUFORIA_ is a platform that is used as an AR/MR tool recognition. It can recogn
 
 Finally, we were given a small theoretical and practical test ensure that we’ve fully understood UNITY’s core function and steps to make an AR and Holo application.
 
-Note: This workshop was led by an instructor of ### UFO Schools which is a profound and revolutionary IT academy. It is one of the Microsoft Partner Learning Centers. It offers both online and offline IT Technology training based on the official curriculum from Google, Microsoft, UNITY and Autodesk.
+Note: This workshop was led by an instructor of **UFO Schools** which is a profound and revolutionary IT academy. It is one of the Microsoft Partner Learning Centers. It offers both online and offline IT Technology training based on the official curriculum from Google, Microsoft, UNITY and Autodesk.
