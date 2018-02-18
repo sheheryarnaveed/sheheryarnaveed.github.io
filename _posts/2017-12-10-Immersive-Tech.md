@@ -1,17 +1,20 @@
 ---
 title: Immersive Technology Workshop by UFO Schools and Microsoft
-date: {}
+date: 2017-12-10T10:30:00.000+05:00
 excerpt: Learning  about advanced unity features.
 comments: true
 tags:
   - Microsoft
   - Unity
   - MSP
+  - Hololens
 published: true
 ---
 
 
 ## Immersive Technology Workshop
+
+![dt3.jpg](/assets/images/1IMP1.jpg)
 
 It was an Microsoft hosted workshop meant specifically for Microsoft Student Partners(MSPS) to make them aware about Microsoft’s Hololens technology and UNITY. Since, it was too much to get covered in a day so the workshop was divided into two days. The first day was mostly teaching related to the subject matter and the second day was focused more on practical work followed by a final test to inspect our knowledge bank’s recent additions. In short, the main aims of the two days extensive workshop was to make MSPs familiar with production tool, acquainted with MR(Mixed Reality)/VR(Virtual Reality)/AR(Augmented Reality) and finally making a holographic application.
 
@@ -23,6 +26,8 @@ Other than the practical fashion of using the equipment, in-depth knowledge of w
 
 Ranging from video calling and watching movie to fixing a wire everything has become to easy to deal with after the invention of such a fine technology of Microsoft Hololens. One can now view what the person is looking towards using the camera on eye of the person while talking to the second person on video chat. 
 After getting a full grip on Microsoft Hololens, we learned UNITY. UNITY is an application which has various uses such as Film Engine, Game Engine, AR/VR/MR Engine etc. It has a wide range of functions, nevertheless, our main task was to focus on holographic application. In order to build that first we were required to become fully proficient in the UNITY’s functions. Even though most of the MSPs were already quite well-aware of UNITY’s operations but still some of those needed a brief introduction. 
+
+![dt3.jpg](/assets/images/1IMP3.jpg)
 
 As far as I remember we were given basic knowledge of some of the tabs such as **_Hierarchy_**, **_Inspector_**, **_Project_**, **_Scene_**, **_Console_**, **_Asset Store_** and **_Output_**. Under these tabs there are diversified tasks that we can make use of in the project we are working on in UNITY. A succinct description of each of these markers is as follows:
 
@@ -46,6 +51,8 @@ After getting a terse intro on UNITY the day’s planned schedule was completed.
 Most of the learning outcomes were already achieved on the first day; the second day was more about applying the knowledge to a practical task and testing the knowledge delivered to us during the first day. We made an AR application using “_UNITY_” and “_VUFORIA_”. 
 
 We used _UNITY_ to impose different features(using the C# scripts) in our Unity Chen Object which was downloaded from the asset store. 
+
+![dt3.jpg](/assets/images/1IMP2.jpg)
 
 _VUFORIA_ is a platform that is used as an AR/MR tool recognition. It can recognize 2D imaged, 3D models and complex environments(terrains). Other than Vuforia we can also use ARKit, ARCore, OpenCV etc. So first of all, we get our license on Vuforia then created our first target database and eventually created our first AR application.  
 
