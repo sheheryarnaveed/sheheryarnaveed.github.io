@@ -7,6 +7,7 @@ published: true
 ---
 ## **An enigma of a lost person.**
 
+I am an HKU'22 and I desperately looking for CS-related opportunities because that's something I have utmost predilection towards.
 _For the skills part you can view my_ <a href="http://www.sheheryarnaveed.com/projects" target="_blank">projects</a> _and my_ <a href="http://www.sheheryarnaveed.com/assets/docs/Resume-Muhammad%20Sheheryar%20Naveed.pdf" target="_blank">resume</a>_._
 
 _Now let me introduce to you about the turning point of my life that should be good enough to brief me as a person._
