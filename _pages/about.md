@@ -7,9 +7,9 @@ published: true
 ---
 ## **An enigma of a lost person.**
 
-For the skills part you can view my <a href="http://www.sheheryarnaveed.com/projects" target="_blank">projects</a> and my <a href="http://www.sheheryarnaveed.com/assets/docs/Resume-Muhammad%20Sheheryar%20Naveed.pdf" target="_blank">resume</a>.
+_For the skills part you can view my_ <a href="http://www.sheheryarnaveed.com/projects" target="_blank">projects</a> _and my_ <a href="http://www.sheheryarnaveed.com/assets/docs/Resume-Muhammad%20Sheheryar%20Naveed.pdf" target="_blank">resume</a>_._
 
-Now let me introduce to you about the turning point of my life that should be good enough to brief me as a person.
+_Now let me introduce to you about the turning point of my life that should be good enough to brief me as a person._
 
 It was a huge mistake. Enormous! What have I done?
 It all started a decade ago...
